@@ -1,5 +1,5 @@
-chunk_id,start_token,end_token,text
-20109399_User manual_A1000_en (1).pdf_0000,0,500,"USER MANUAL
+file_name,text
+20109399_User manual_A1000_en (1).pdf,"USER MANUAL
 A1000
 FCS4050
 en
@@ -100,20 +100,6 @@ Coffee machine
  21
 5.1.1
 Standard
- 21
-5.1.2
-Options
- 22
-5.1.3
-Coffee machine components
- 24
-5.2
-Add-on units
- 25
-5.2.1
-Cooling unit
- "
-20109399_User manual_A1000_en (1).pdf_0001,450,950,"
  21
 5.1.2
 Options
@@ -228,17 +214,6 @@ Emptying the cooling unit
 Cooling unit SU12/UT12
  42
 7.12
-Emptying the refrigerator"
-20109399_User manual_A1000_en (1).pdf_0002,900,1400,"10
-Emptying the grounds container
- 41
-7.11
-Emptying the cooling unit
- 42
-7.11.1
-Cooling unit SU12/UT12
- 42
-7.12
 Emptying the refrigerator (with pump module (MU))
  43
 7.13
@@ -333,17 +308,6 @@ Menu 0 Commissioning
 Menu 1 Set Machine
  58
 10.5.3
-Menu 2 Customize beverages
- 64
-10.5.4
-Menu 3 Date and time
- 66
-10.5.5
-Menu 4 Nutritional value information
- 68
-10.5.6
-Menu"
-20109399_User manual_A1000_en (1).pdf_0003,1350,1850,"
 Menu 2 Customize beverages
  64
 10.5.4
@@ -459,17 +423,6 @@ Long-term decommissioning
 Transport and storage
  85
 13.6
-Recommissioning after prolonged"
-20109399_User manual_A1000_en (1).pdf_0004,1800,2300,"3
-Short-term decommissioning (up to 3 weeks)
- 84
-13.4
-Long-term decommissioning
- 85
-13.5
-Transport and storage
- 85
-13.6
 Recommissioning after prolonged periods of storage or non-use
  85
 14
@@ -524,11 +477,6 @@ Please note
 Cup warmer
 – The cup warmer is intended only for preheating coffee cups and glasses used when preparing drinks.
 Please note
-– Drinking containers made of paper or plastic must not be used."
-20109399_User manual_A1000_en (1).pdf_0005,2250,2750," suitable for the storage of alcoholic or explosive substances.
-Cup warmer
-– The cup warmer is intended only for preheating coffee cups and glasses used when preparing drinks.
-Please note
 – Drinking containers made of paper or plastic must not be used. The cup warmer is not designed to dry
 dish towels or other cloths. It is not necessary to cover the cups to warm them.
 Accounting system
@@ -559,12 +507,6 @@ on units.
 lack of experience and knowledge, may only use the A1000 and the add-on
 units under supervision or after adequate instruction by a person responsible
 for their safety; they are not permitted to play with the A1000 and the add-on
-units.
-– Children are not permitted to clean the A1000 and the add-on units.
-1.3
-Explanation of safety instructions
-To ensure"
-20109399_User manual_A1000_en (1).pdf_0006,2700,3200,"for their safety; they are not permitted to play with the A1000 and the add-on
 units.
 – Children are not permitted to clean the A1000 and the add-on units.
 1.3
@@ -612,12 +554,6 @@ d) Disconnect the machine from the power supply in the event of a leak or if liq
 machine.
 WARNING
 Risk of fatal injury from electrocution
-Work"
-20109399_User manual_A1000_en (1).pdf_0007,3150,3650,"c) Do not immerse the machine in liquid.
-d) Disconnect the machine from the power supply in the event of a leak or if liquid/moisture enters the
-machine.
-WARNING
-Risk of fatal injury from electrocution
 Work, repairs or servicing improperly performed on electrical systems can lead to electrocution.
 a) Have repairs on electrical parts carried out by service technicians using original spare parts.
 b) Have servicing carried out by authorized persons with corresponding qualification only.
@@ -659,11 +595,6 @@ d) Cleaning supplies must be kept away from beverages.
 CAUTION
 Health hazard due to germ formation
 Inadequate cleaning can result in food residues accumulating in the machine and at the spouts, thereby
-contaminating products.
-a) Do not use the machine unless it has been cleaned according to the instructions.
-b) Clean the machine daily in accordance with the instructions.
-c) Inform operating personnel of the necessary cleaning"
-20109399_User manual_A1000_en (1).pdf_0008,3600,4100," at the spouts, thereby
 contaminating products.
 a) Do not use the machine unless it has been cleaned according to the instructions.
 b) Clean the machine daily in accordance with the instructions.
@@ -723,16 +654,6 @@ by tapping the symbol. If an error occurs, refer to the Troubleshooting [} 80] 
 Symbol
 Designation
 Description
-Franke logo
-Call up the maintenance level
-Bean left/right
-Active grinder
-Double product
-Produce double beverage quantity (double production)
-Franke Kaffeemaschinen AG
-Explanation of symbols | 2
-User manual A100"
-20109399_User manual_A1000_en (1).pdf_0009,4050,4550,"
 Franke logo
 Call up the maintenance level
 Bean left/right
@@ -830,13 +751,6 @@ User manual A1000
 3
 SCOPE OF DELIVERY
 The scope of delivery may vary, depending on the configuration of the appliance. Additional accessories
-may be obtained directly from your retailer or"
-20109399_User manual_A1000_en (1).pdf_0010,4500,5000,"ke Kaffeemaschinen AG
-16
-User manual A1000
-3
-SCOPE OF DELIVERY
-The scope of delivery may vary, depending on the configuration of the appliance. Additional accessories
 may be obtained directly from your retailer or from Franke Kaffeemaschinen AG in Aarburg, Switzerland.
 Item description
 Item number
@@ -901,13 +815,6 @@ the right interior wall.
 4.1.2
 Cooling unit SU12/UT12
 The type plate for the cooling unit is located on the
-left-hand side in the cooling chamber.
-4.1.3
-Flavor Station FS
-The type plate for the FS Flavor Station is located in
-the interior on the rear panel.
-Franke"
-20109399_User manual_A1000_en (1).pdf_0011,4950,5450," plate for the cooling unit is located on the
 left-hand side in the cooling chamber.
 4.1.3
 Flavor Station FS
@@ -990,15 +897,6 @@ Flavor Station with 6 flavor pumps
 FSU60
 Under-counter Flavor Station with 6 flavor pumps
 CW
-"
-20109399_User manual_A1000_en (1).pdf_0012,5400,5900," (12 l or 2 x 4.5 l)
-MU
-Milk pump module
-FS60
-Flavor Station with 6 flavor pumps
-FSU60
-Under-counter Flavor Station with 6 flavor pumps
-CW
 Cup warmer
 FM
 FoamMaster (cold and warm milk, cold and warm milk foam)
@@ -1074,14 +972,6 @@ Options
 – First Shot
 – Feet, 7 mm
 – Adjustable feet, 70 mm
-– Adjustable feet, 100 mm"
-20109399_User manual_A1000_en (1).pdf_0013,5850,6350," for jug
-– Lockable bean and powder hopper
-– Cup sensor
-– Optical Cup Recognition
-– First Shot
-– Feet, 7 mm
-– Adjustable feet, 70 mm
 – Adjustable feet, 100 mm
 – TDS sensor
 – Touchpad as accessibility feature for wheelchair users
@@ -1141,13 +1031,6 @@ clean, so your customers experience pure coffee
 enjoyment.
 The cooling unit is available with different features and configurations.
 Features
-– Semi-automatic or automatic cleaning system ("
-20109399_User manual_A1000_en (1).pdf_0014,6300,6800," the perfect
-cup. The unit is simple to refill and even easier to
-clean, so your customers experience pure coffee
-enjoyment.
-The cooling unit is available with different features and configurations.
-Features
 – Semi-automatic or automatic cleaning system (depending on the version)
 – With IndividualMilk Technology (for 1OM/2OM versions)
 – Left-hand and right-hand connection to the machine possible
@@ -1192,13 +1075,6 @@ Pump module MU FM EC
 MU FM EC
 The pump module is designed for use in third-party
 refrigerators. The module conveys the milk used for
-the preparation of beverages to the Franke coffee
-machine.
-5.3
-Overview of operating modes
-The suitable operating mode depends on the utilization of your coffee machine, your product range and
-the preferences of your"
-20109399_User manual_A1000_en (1).pdf_0015,6750,7250," conveys the milk used for
 the preparation of beverages to the Franke coffee
 machine.
 5.3
@@ -1267,10 +1143,6 @@ User manual A1000
 Structure of the user interface
 – Level 1: Product selection, up to 5 pages; 6, 12 or 20 product buttons can be displayed per page
 – Level 2: Customize beverages, select product options, initiate beverages preparation process
-Individual"
-20109399_User manual_A1000_en (1).pdf_0016,7200,7700," interface
-– Level 1: Product selection, up to 5 pages; 6, 12 or 20 product buttons can be displayed per page
-– Level 2: Customize beverages, select product options, initiate beverages preparation process
 Individual adaptations
 – Display: 2x3, 3x4 or 4x5 products per page
 – Activate Credit Mode
@@ -1318,11 +1190,6 @@ Preparations
 breaker (RCCB).
 – Each terminal of the power supply must be able to be interrupted using a switch.
 – The water connection must comply with Requirements of the water supply [} 31] and local and
-national rules and regulations.
-– The coffee machine must be connected to the water supply with the supplied hose kit. Do not use any
-other water hoses that happen to be present.
-– Ensure that the coffee machine can be placed"
-20109399_User manual_A1000_en (1).pdf_0017,7650,8150,"] and local and
 national rules and regulations.
 – The coffee machine must be connected to the water supply with the supplied hose kit. Do not use any
 other water hoses that happen to be present.
@@ -1382,12 +1249,6 @@ mm
 Only connect with the hose kit provided
 – The main water connection must meet the requirements of the technical data and comply with appli-
 cable federal, state, and local regulations.
-– The main water connection"
-20109399_User manual_A1000_en (1).pdf_0018,8100,8600," = 1500
-mm
-Only connect with the hose kit provided
-– The main water connection must meet the requirements of the technical data and comply with appli-
-cable federal, state, and local regulations.
 – The main water connection must have a backflow prevention device.
 – The main water connection must be equipped with a shut-off valve and a check valve with an up-
 stream filter accessible for inspection. It must be possible for the filter to be removed for cleaning.
@@ -1429,15 +1290,6 @@ The following formula can be used for evaluation:
 Calculated conductivity = measured conductivity [μS/cm] – (measured total hardness [dH GH] x constant)
 – Measured conductivity in μS/cm
 – Measured total hardness in dH GH
-– Constant = 30 [μS/cm]/[ dH GH]
-Calculated conductivity
-Risk of corrosion
-<200 μS/cm
-low
-200 – 500 μS/cm
-increased
->500 "
-20109399_User manual_A1000_en (1).pdf_0019,8550,9050,"H GH
 – Constant = 30 [μS/cm]/[ dH GH]
 Calculated conductivity
 Risk of corrosion
@@ -1494,15 +1346,6 @@ User manual A1000
 Filling powder
 1. Lift off the powder hopper lid.
 2. Fill with powder suitable for automatic bev-
-er"
-20109399_User manual_A1000_en (1).pdf_0020,9000,9500," Kaffeemaschinen AG
-34
-User manual A1000
-3. Fit the lid.
-7.3
-Filling powder
-1. Lift off the powder hopper lid.
-2. Fill with powder suitable for automatic bev-
 erage dispensers.
 3. Fit the lid.
 7.4
@@ -1546,14 +1389,6 @@ where the sliding cover of the container lid is
 fully visible.
 7 | Filling and emptying
 Franke Kaffeemaschinen AG
-36
-User manual A1000
-4. Push the sliding cover backwards.
-5. Fill the milk container with cooled milk.
-6. Close the sliding cover.
-7. Push the milk container all the way into the
-cooling"
-20109399_User manual_A1000_en (1).pdf_0021,9450,9950,"inen AG
 36
 User manual A1000
 4. Push the sliding cover backwards.
@@ -1616,14 +1451,6 @@ filled with syrup.
 Setting the grind coarseness
 WARNING
 Risk of injury
-If objects find their way into the bean hopper or grinder, splinters may be ejected"
-20109399_User manual_A1000_en (1).pdf_0022,9900,10400,"ð
-The hoses of the Flavor Station are pre-
-filled with syrup.
-7.7
-Setting the grind coarseness
-WARNING
-Risk of injury
 If objects find their way into the bean hopper or grinder, splinters may be ejected, leading to injury.
 a) Never insert any objects into the bean hopper or grinder.
 Grinder adjustment wrench (560.0003.876)
@@ -1669,14 +1496,6 @@ NOTICE
 Impairment of function
 If the bean hopper and powder hopper are not locked correctly, the function of the coffee machine and the
 product quality may be impaired.
-a) Push the locking slide all the way in.
-7.9
-Emptying the powder hopper
-CAUTION
-Cutting injuries/crushing
-The powder hoppers worm gear mechanism can cause cuts or crushing injuries.
-a"
-20109399_User manual_A1000_en (1).pdf_0023,10350,10850," be impaired.
 a) Push the locking slide all the way in.
 7.9
 Emptying the powder hopper
@@ -1734,12 +1553,6 @@ your hands, or when wearing single use gloves.
 e) Place the container lid with the suction hose on a clean surface only.
 NOTICE
 Blockage of the milk system
-Fibers from unsuitable cleaning cloths can enter the milk"
-20109399_User manual_A1000_en (1).pdf_0024,10800,11300,"
-your hands, or when wearing single use gloves.
-e) Place the container lid with the suction hose on a clean surface only.
-NOTICE
-Blockage of the milk system
 Fibers from unsuitable cleaning cloths can enter the milk/media system and cause a blockage. This can
 damage the machine.
 a) Use a microfiber cloth to clean the milk container.
@@ -1788,14 +1601,6 @@ hoses.
 quired.
 6. Leave the door of the switched-off refrigera-
 tor slightly open to prevent odors from build-
-ing up inside.
-7.13
-Emptying the Flavor Station
-1. Clean the Flavor Station. See Start cleaning
-[} 50].
-2. NOTICE! After cleaning, do not insert the
-"
-20109399_User manual_A1000_en (1).pdf_0025,11250,11750," to prevent odors from build-
 ing up inside.
 7.13
 Emptying the Flavor Station
@@ -1880,18 +1685,6 @@ Chococcino
 Espresso
 Cappuccino
 Double Espresso
-Lat"
-20109399_User manual_A1000_en (1).pdf_0026,11700,12200,"chiato
-Chocolate
-3. Select a product.
-ð The preparation begins.
-Caffè Crema To Go
-Ristretto
-Tea water
-Chococcino
-Espresso
-Cappuccino
-Double Espresso
 Latte macchiato
 Chocolate
 4. Add more products to the queue list as
@@ -1965,10 +1758,6 @@ User manual A1000
 8.5
 Steam dispenser (Autosteam/Autosteam Pro)
 Autosteam is suitable for manually heating and foaming/frothing of milk and for heating other drinks.
-Using the purging function will remove any condensation from inside"
-20109399_User manual_A1000_en (1).pdf_0027,12150,12650,"8.5
-Steam dispenser (Autosteam/Autosteam Pro)
-Autosteam is suitable for manually heating and foaming/frothing of milk and for heating other drinks.
 Using the purging function will remove any condensation from inside the steam wand.
 1. Press the purge button 
 .
@@ -2028,15 +1817,6 @@ Required cleaning accessories
 – Paint brush
 – Brush set
 – Spout cleaning device (if the hot water also comes from the central spout)
-– Paper towel"
-20109399_User manual_A1000_en (1).pdf_0028,12600,13100," on or off.
-9.2
-Required cleaning accessories
-– Cleaning tablets
-– Microfiber cloth
-– Paint brush
-– Brush set
-– Spout cleaning device (if the hot water also comes from the central spout)
 – Paper towel (for all-in-one spout)
 9.3
 5-step method
@@ -2085,18 +1865,6 @@ Tea water
 4. Press Ok.
 2020-03-02
 10:54
-My settings
-Individualization and data transfer
-Counter(s)
-Cleaning and maintenance
-5. Select Cleaning and maintenance.
-Wipe protection
-Filter water quantity
-Rinsing the coffee machine
-Cleaning the coffee
-machine
-Error/event log"
-20109399_User manual_A1000_en (1).pdf_0029,13050,13550,":54
 My settings
 Individualization and data transfer
 Counter(s)
@@ -2170,13 +1938,6 @@ damp cloth.
 2. If necessary, use a mild cleaner. NOTICE! Do
 not use abrasive cleaners.
 Franke Kaffeemaschinen AG
-Cleaning | 9"
-20109399_User manual_A1000_en (1).pdf_0030,13500,14000," surface
-1. Clean the surface of the machine with a
-damp cloth.
-2. If necessary, use a mild cleaner. NOTICE! Do
-not use abrasive cleaners.
-Franke Kaffeemaschinen AG
 Cleaning | 9
 User manual A1000
 53
@@ -2234,17 +1995,6 @@ Individualization and data transfer
 Counter(s)
 Cleaning and maintenance
 4. Select Cleaning and maintenance.
-Cleaning and maintenance
-Error/event log
-Clean the coffee machine
-Rinse the coffee machine
-...
-Wipe protection
-5. Select Wipe protection.
-ð The user interface is locked for 20 sec-
-onds.
-6"
-20109399_User manual_A1000_en (1).pdf_0031,13950,14450," Cleaning and maintenance.
 Cleaning and maintenance
 Error/event log
 Clean the coffee machine
@@ -2333,22 +2083,6 @@ My PIN
  ...
  ...
  ...
-The PINs for key (secured) products and On/Off"
-20109399_User manual_A1000_en (1).pdf_0032,14400,14900," assigned at the factory:
-Owner
-Specialist
-Cleaning staff
-Operator
-Default PIN
-1111
-2222
-5555
-7777
-My PIN
- ...
- ...
- ...
- ...
 The PINs for key (secured) products and On/Off machine can be viewed and changed with the owner role in
 the My settings > Access rights menu.
 10.3
@@ -2412,11 +2146,6 @@ Value range
 Remarks
 Select language
 de, en, fr, bg, cs, da,
-es, es-US, et, fi, fr-
-CA, hr, hu, it, ja, ko,
-lt, lv, nl, no, pl, pt-BR,
-ro, ru, sk, sl,"
-20109399_User manual_A1000_en (1).pdf_0033,14850,15350,", cs, da,
 es, es-US, et, fi, fr-
 CA, hr, hu, it, ja, ko,
 lt, lv, nl, no, pl, pt-BR,
@@ -2506,16 +2235,6 @@ Products per page
 – Default: Depends on the coffee machine
 Adapt beverages
 – Yes
-– No"
-20109399_User manual_A1000_en (1).pdf_0034,15300,15800,"spire Me not available for A400).
-Products per page
-– 6
-– 12
-– 20
-– Number of products displayed simultaneously
-– Default: Depends on the coffee machine
-Adapt beverages
-– Yes
 – No
 – Possibility for self-service customers to modify
 the selected beverage in accordance with the
@@ -2596,13 +2315,6 @@ size
 Recommendation:
 – Selection buttons on left-hand side: Select bev-
 erage size
-– Selection buttons on right-hand side: Select ad"
-20109399_User manual_A1000_en (1).pdf_0035,15750,16250,"ing buttons are displayed on the right
-– 9 or more buttons are displayed at a reduced
-size
-Recommendation:
-– Selection buttons on left-hand side: Select bev-
-erage size
 – Selection buttons on right-hand side: Select ad-
 ditional settings
 PLU No.
@@ -2671,18 +2383,6 @@ centages using the slide control
 Franke Kaffeemaschinen AG
 62
 User manual A1000
-Menu item 1.11 Flavor
-My settings
-1 Set machine
-1.11 Flavor
-Parameter
-Value range
-Remarks
-Counting active
-– Yes
-– No
-– Yes: Flavor products are counted"
-20109399_User manual_A1000_en (1).pdf_0036,16200,16700,"User manual A1000
 Menu item 1.11 Flavor
 My settings
 1 Set machine
@@ -2772,15 +2472,6 @@ Menu item 1.17 Resources
 Is only supported when using the filter model (Individual Operating Mode).
 Bean types
 Parameter
-"
-20109399_User manual_A1000_en (1).pdf_0037,16650,17150,"
-– No
-– Yes: Error display via edge lighting active
-– No: no error display via edge lighting
-Menu item 1.17 Resources
-Is only supported when using the filter model (Individual Operating Mode).
-Bean types
-Parameter
 Value range
 Remarks
 Bean hopper pos. 1-3
@@ -2858,11 +2549,6 @@ The coffee machine guides through the process
 10.5.3 Menu 2 Customize beverages
 You can save each product in three user-specific variations. The original cannot be changed.
 Only parameters that are relevant for the product are displayed.
-The percentage specifications are always based on the preset value.
-For tips on setting the parameters, see the chapter Help with problems concerning product quality
-[} 82].
-All values configured in menu 2 are saved in the configuration and"
-20109399_User manual_A1000_en (1).pdf_0038,17100,17600," product are displayed.
 The percentage specifications are always based on the preset value.
 For tips on setting the parameters, see the chapter Help with problems concerning product quality
 [} 82].
@@ -2974,20 +2660,6 @@ Year
 0–63
 Set the year
 Hour
-0–"
-20109399_User manual_A1000_en (1).pdf_0039,17550,18050,"12/24-hour display
-– 12 hours
-– 24 hours
-Day
-1–31
-Set the day
-Month
-1–12
-Set the month
-Year
-0–63
-Set the year
-Hour
 0–23/0–11
 Set the hour
 Minute
@@ -3076,15 +2748,6 @@ Protein
 Increment 0.1
 Enter protein content in g
 Calories
-0-2000 kcal"
-20109399_User manual_A1000_en (1).pdf_0040,18000,18500,".0 %
-Increment 0.1
-Enter fat content in %
-Protein
-0.0–30.0 g
-Increment 0.1
-Enter protein content in g
-Calories
 0-2000 kcal
 Increment 1
 Enter calorific value in kilocalories (kcal)
@@ -3156,16 +2819,6 @@ PIN code (default values)
 7777
 6.5 Cleaning staff
 5555
-6.6 Key (secured) products
-8888
-6.7 On/Off machine
-9999
-10 | Configuration
-Franke Kaffeemaschinen AG
-70
-User manual A1000
-Menu item 6"
-20109399_User manual_A1000_en (1).pdf_0041,18450,18950,"5
 6.6 Key (secured) products
 8888
 6.7 On/Off machine
@@ -3265,17 +2918,6 @@ PIN set
 Activate user profile
 – Yes
 – No
-– Yes: User profile is active"
-20109399_User manual_A1000_en (1).pdf_0042,18900,19400," system
-– Update software via USB stick
-PIN set
-– Yes
-– No
-– Yes: PIN is active
-– No: PIN is not active
-Activate user profile
-– Yes
-– No
 – Yes: User profile is active
 – No: User profile is not active
 Open door to log on
@@ -3361,15 +3003,6 @@ Activate user profile
 – Yes: user profile is active
 – No: user profile is not active
 – Default: no
-Franke Kaffeemasch"
-20109399_User manual_A1000_en (1).pdf_0043,19350,19850," PIN is active
-– No: PIN is not active
-Activate user profile
-– Yes
-– No
-– Yes: user profile is active
-– No: user profile is not active
-– Default: no
 Franke Kaffeemaschinen AG
 Individualization and data transfer | 11
 User manual A1000
@@ -3420,12 +3053,6 @@ User manual A1000
 Manage Digital Signage via USB stick
 You can maintain the selection and display times of your advertising media (digital signage) in a freely ac-
 cessible web tool. To do this, export and import the corresponding file with a USB stick.
-http://iot.franke.com/digital-signage
-ü The coffee machine has software version 4.0
-or higher.
-1. Connect a USB stick to the machine.
-2. Go to menu item Individual"
-20109399_User manual_A1000_en (1).pdf_0044,19800,20300," file with a USB stick.
 http://iot.franke.com/digital-signage
 ü The coffee machine has software version 4.0
 or higher.
@@ -3487,11 +3114,6 @@ Switching language
 – Yes
 – No
 – Yes: a country flag appears in the top right corner
-during product selection. The languages defined
-under Language 1-6 appear by tapping the flag. If
-a language is selected, the translated beverage
-names and billing information will appear."
-20109399_User manual_A1000_en (1).pdf_0045,20250,20750," Yes: a country flag appears in the top right corner
 during product selection. The languages defined
 under Language 1-6 appear by tapping the flag. If
 a language is selected, the translated beverage
@@ -3563,20 +3185,6 @@ mation
 value information
 – The nutritional information can be entered in
 chapter Menu 4 Nutritional value information
-[} 68]
-Further nutritional value infor-
-mation
-Free text input
-11.5.5
-Accounting
-Parameter
-Value range
-Remarks
-Select
-– Coins
-– Cards
-– Customer card"
-20109399_User manual_A1000_en (1).pdf_0046,20700,21200," Nutritional value information
 [} 68]
 Further nutritional value infor-
 mation
@@ -3671,12 +3279,6 @@ tween the coffee machine and the third-party app.
 The use case is the same as for Remote Control, but
 instead of the Franke web app, the app from a third-
 party manufacturer is used.
-Allow Remote Control"
-20109399_User manual_A1000_en (1).pdf_0047,21150,21650," enables interaction be-
-tween the coffee machine and the third-party app.
-The use case is the same as for Remote Control, but
-instead of the Franke web app, the app from a third-
-party manufacturer is used.
 Allow Remote Control
 – Yes
 – No
@@ -3743,10 +3345,6 @@ If updates (menu bundle, software version, etc.) are transferred to the coffee m
 sioning or Deployment or via USB stick, they must be activated on the coffee machine. The available update
 packages can be viewed in the Individualization and data transfer menu on the coffee machine.
 Franke Kaffeemaschinen AG
-Individualization and data transfer |"
-20109399_User manual_A1000_en (1).pdf_0048,21600,22100," or via USB stick, they must be activated on the coffee machine. The available update
-packages can be viewed in the Individualization and data transfer menu on the coffee machine.
-Franke Kaffeemaschinen AG
 Individualization and data transfer | 11
 User manual A1000
 79
@@ -3803,12 +3401,6 @@ be restarted in the event of serious errors.
 a) To restart the machine, switch it off via the main switch 
  .
 b) Wait a minute and then switch it back on again.
-c) Check the power supply if the machine fails to start.
-d) Contact your service technician if the machine cannot be started or if you are unable to rectify the er-
-ror.
-Franke Kaffeemaschinen AG
-"
-20109399_User manual_A1000_en (1).pdf_0049,22050,22550," on again.
 c) Check the power supply if the machine fails to start.
 d) Contact your service technician if the machine cannot be started or if you are unable to rectify the er-
 ror.
@@ -3879,14 +3471,6 @@ product is being dispensed, the brewing
 module strainer is probably blocked
 – Increase the grind coarseness and/or
 reduce the grind quantity
-– Remove"
-20109399_User manual_A1000_en (1).pdf_0050,22500,23000," water tank/main water con-
-nection coupling
-If the error message appears while a
-product is being dispensed, the brewing
-module strainer is probably blocked
-– Increase the grind coarseness and/or
-reduce the grind quantity
 – Remove the brewing module and
 rinse it out
 – Start the coffee machine cleaning
@@ -3935,14 +3519,6 @@ Possible remedies
 Coffee tastes stale
 Grind too coarse
 Select a finer grind Setting the grind
-coarseness [} 38]
-Too little coffee
-Increase coffee quantity Menu 2 Cus-
-tomize beverages [} 64]
-Temperature too low
-Increase temperature Menu 2 Custom-
-ize beverages ["
-20109399_User manual_A1000_en (1).pdf_0051,22950,23450," a finer grind Setting the grind
 coarseness [} 38]
 Too little coffee
 Increase coffee quantity Menu 2 Cus-
@@ -4027,13 +3603,6 @@ Cleaning [} 49] function.
 3. Clean the bean hopper and powder hopper.
 4. Clean the grounds container.
 5. Empty the milk container.
-"
-20109399_User manual_A1000_en (1).pdf_0052,23400,23900," using the automatic
-Cleaning [} 49] function.
-2. Empty the bean hopper and powder hopper.
-3. Clean the bean hopper and powder hopper.
-4. Clean the grounds container.
-5. Empty the milk container.
 6. Clean the milk container and container lid.
 7. Clean the inside of the milk hose with a
 brush.
@@ -4081,12 +3650,6 @@ If you plan to start using your machine again at a later date, it is essential t
 mented. The coffee machine must be maintained, installed, and cleaned before preparing any beverages.
 a) Contact the Franke Service team for information regarding proper decommissioning and storage.
 b) Have your coffee machine drained by your service technician.
-c) Remedial maintenance may be required when commissioning the machine if it has been stored in ex-
-cess of 6 months.
-13.5
-Transport and storage
-Protect the machine from mechanical damage and"
-20109399_User manual_A1000_en (1).pdf_0053,23850,24350," coffee machine drained by your service technician.
 c) Remedial maintenance may be required when commissioning the machine if it has been stored in ex-
 cess of 6 months.
 13.5
@@ -4139,15 +3702,6 @@ User manual A1000
 15
 TECHNICAL DATA
 Device type
-A1000 (FCS4059)
-Dimensions: Width/height/depth (mm)
-340/540/600
-Weight (kg)
-58
-Bean hopper capacity (kg)
-0,6 or 1,2
-T"
-20109399_User manual_A1000_en (1).pdf_0054,24300,24800," type
 A1000 (FCS4059)
 Dimensions: Width/height/depth (mm)
 340/540/600
@@ -4235,19 +3789,6 @@ Frequency
 380–415 V
 3LNPE
 6300-7500 W
-16 A
-50-60 Hz
-Index
-Franke Kaffeemaschinen AG
-88
-User manual A1000
-INDEX
-Numeric
-5-step method
- 12, 49
-A
-Amb"
-20109399_User manual_A1000_en (1).pdf_0055,24750,25250,"0 W
 16 A
 50-60 Hz
 Index
@@ -4403,25 +3944,6 @@ Transport
  86
 Troubleshooting
  82
-Machine"
-20109399_User manual_A1000_en (1).pdf_0056,25200,25700,", 48
-Start button
- 12
-Symbols
- 12
-Dashboard
- 12
-Instructions
- 12
-Software
- 12
-T
-Tips
- 12
-Transport
- 86
-Troubleshooting
- 82
 Machine error
  80
 Type code
@@ -4473,7 +3995,7 @@ www.franke.com
 coffee.franke.com
 Original operating instructions • 20109399 • 04 • 8/14/2024
 "
-20169320_TUM_SB1200_en.pdf_0000,0,500,"USER MANUAL
+20169320_TUM_SB1200_en.pdf,"USER MANUAL
 SB1200
 FCS4074
 en
@@ -4581,20 +4103,6 @@ Emptying the powder hopper
 7.10
 Emptying the grounds container
  44
-7.11
-Emptying the cooling unit
- 45
-8
-Preparing beverages
- 48
-8.1
-Preparing beverages with Quick Select
- 48
-8.2
-Preparing beverages with ground coffee
- 48
-8"
-20169320_TUM_SB1200_en.pdf_0001,450,950,"44
 7.11
 Emptying the cooling unit
  45
@@ -4721,18 +4229,6 @@ Recommissioning after prolonged periods of storage or non-use
  83
 14
 Disposal of parts
- "
-20169320_TUM_SB1200_en.pdf_0002,900,1400,".4
-Long-term decommissioning
- 82
-13.5
-Transport and storage
- 83
-13.6
-Recommissioning after prolonged periods of storage or non-use
- 83
-14
-Disposal of parts
  84
 15
 Technical data
@@ -4782,10 +4278,6 @@ system.
 – The cooling unit is intended exclusively for operation indoors.
 – The UT40 cooling unit is intended exclusively for use in enclosed furniture with ventilation openings
 which prevent liquids from entering the unit. The cooling unit must never be used free-standing.
-– Please also observe the Declaration of Con"
-20169320_TUM_SB1200_en.pdf_0003,1350,1850," intended exclusively for operation indoors.
-– The UT40 cooling unit is intended exclusively for use in enclosed furniture with ventilation openings
-which prevent liquids from entering the unit. The cooling unit must never be used free-standing.
 – Please also observe the Declaration of Conformity delivered with the device.
 CleanMaster
 – The CleanMaster is intended exclusively for operation indoors.
@@ -4822,10 +4314,6 @@ to its use in the self-service area.
 – Do not operate the SB1200 FM CM or add-on units until you have completely read and understood this
 manual.
 – Do not use the SB1200 FM CM or add-on units if you are not familiar with the various functions.
-– Do not use the SB1200 FM CM if the connection lines of the SB1200 FM CM or the add-on units are
-damaged.
-– Do not use the"
-20169320_TUM_SB1200_en.pdf_0004,1800,2300," or add-on units if you are not familiar with the various functions.
 – Do not use the SB1200 FM CM if the connection lines of the SB1200 FM CM or the add-on units are
 damaged.
 – Do not use the SB1200 FM CM unless the SB1200 FM CM or the add-on units have been cleaned or
@@ -4869,9 +4357,6 @@ a) Do not connect any damaged power cords, pipes or plugs to the power grid.
 b) Replace damaged power cords, pipes or plugs. 
 If the power cord is permanently assembled, contact the service technician. If the power cord is not
 permanently assembled, order and use a new, original power cord.
-c) Ensure that the machine/appliance and the power cord are not near any hot surfaces such"
-20169320_TUM_SB1200_en.pdf_0005,2250,2750," is permanently assembled, contact the service technician. If the power cord is not
-permanently assembled, order and use a new, original power cord.
 c) Ensure that the machine/appliance and the power cord are not near any hot surfaces such as gas or
 electric stoves or ovens.
 d) Ensure that the power cord is not pinched and does not chafe on sharp edges.
@@ -4912,12 +4397,6 @@ a) Keep hands away from the spouts and nozzles during this process.
 WARNING
 Risk of injury
 If objects find their way into the bean hopper or grinder, splinters may be ejected, leading to injury.
-a) Never insert any objects into the bean hopper or grinder.
-CAUTION
-Cutting injuries/crushing
-The powder hoppers worm gear mechanism can cause cuts or crushing injuries.
-a) Exercise care when cleaning the powder"
-20169320_TUM_SB1200_en.pdf_0006,2700,3200," leading to injury.
 a) Never insert any objects into the bean hopper or grinder.
 CAUTION
 Cutting injuries/crushing
@@ -4966,15 +4445,6 @@ Symbols used in the manual
 2.1.1
 Orientation
 Symbol
-Description
-Clean components using the 5-step method.
-This symbol indicates tips, tricks and additional information
-Prerequisites for additional steps
-Result or intermediate result for additional steps
-2.2
-Symbols used in the software
-2.2."
-20169320_TUM_SB1200_en.pdf_0007,3150,3650,"
 Description
 Clean components using the 5-step method.
 This symbol indicates tips, tricks and additional information
@@ -5072,16 +4542,6 @@ Caffè Crema To Go
 Steam
 Tea water
 Highlighted products cannot be prepared. The illu-
-minated symbol on the"
-20169320_TUM_SB1200_en.pdf_0008,3600,4100,".3
-Depiction of error messages
-Espresso
-Cappuccino
-Chococcino
-Caffè Crema To Go
-Steam
-Tea water
-Highlighted products cannot be prepared. The illu-
 minated symbol on the dashboard takes you to the
 error message.
 Door open
@@ -5142,17 +4602,6 @@ Item number
 Attachment to counter for optional fastening of
 UT40 and FSU60 CM (pan head screws
 (560.0623.779) for fixing are included)
-560.0623.576
-Franke Kaffeemaschinen AG
-Identification | 4
-User manual SB1200
-17
-4
-IDENTIFICATION
-4.1
-Position of type plates
-4."
-20169320_TUM_SB1200_en.pdf_0009,4050,4550," for fixing are included)
 560.0623.576
 Franke Kaffeemaschinen AG
 Identification | 4
@@ -5236,18 +4685,6 @@ Left-hand
 RH
 Right-hand
 1IC
-Iced Coffee Module"
-20169320_TUM_SB1200_en.pdf_0010,4500,5000,"CM
-CleanMaster
-H2
-Center hot water spout
-FM
-FoamMaster (cold and warm milk/media, cold and warm milk foam)
-LH
-Left-hand
-RH
-Right-hand
-1IC
 Iced Coffee Module
 4 | Identification
 Franke Kaffeemaschinen AG
@@ -5318,11 +4755,6 @@ CM with CleanMaster or FS60/FSU60 EC). To provide you with an overview of your S
 Station, a sample configuration is illustrated here. Please note that depending on how it is configured, your
 Beverage Station may differ from this example; the counter furniture shown here is for illustrative purposes
 only.
-"
-20169320_TUM_SB1200_en.pdf_0011,4950,5450," overview of your Specialty Beverage
-Station, a sample configuration is illustrated here. Please note that depending on how it is configured, your
-Beverage Station may differ from this example; the counter furniture shown here is for illustrative purposes
-only.
 5 | Description of machine
 Franke Kaffeemaschinen AG
 22
@@ -5388,14 +4820,6 @@ work is required, and there is no need for a sep-
 arate cleaner.
 Iced Coffee
 Iced Espresso
-I"
-20169320_TUM_SB1200_en.pdf_0012,5400,5900,"ced Coffee Module is cleaned as part of
-the existing coffee machine cleaning process.
-This means that no additional manual cleaning
-work is required, and there is no need for a sep-
-arate cleaner.
-Iced Coffee
-Iced Espresso
 Iced Americano
 Iced Caffè Latte
 Iced Cappuccino
@@ -5451,13 +4875,6 @@ tend your range with up to six different flavors.
 5.2.4
 Cup warmer
 To enjoy coffee at its best, you need pre-heated
-cups. The cup warmer with four heatable shelves
-fits perfectly to your coffee machine.
-5.2.5
-Accounting system
-The accounting system processes all payment
-transactions and"
-20169320_TUM_SB1200_en.pdf_0013,5850,6350," enjoy coffee at its best, you need pre-heated
 cups. The cup warmer with four heatable shelves
 fits perfectly to your coffee machine.
 5.2.5
@@ -5533,16 +4950,6 @@ Screen saver
 Select beverage
 3
 Select cup/mug size
-4-6"
-20169320_TUM_SB1200_en.pdf_0014,6300,6800," customizable operating modes: Step by Step and Pop-Up
-The Individual Operating Mode only works with Step by Step and Pop-Up.
-Step by Step
-1
-Screen saver
-2
-Select beverage
-3
-Select cup/mug size
 4-6 Select filter attribute values for filter attributes like flavor or milk type.
 Customers are guided through the Individual Operating Mode GUI, step by step. Each filter attribute
 is shown on a separate screen. Up to eight filter attributes can be used.
@@ -5595,10 +5002,6 @@ Preparations
 – The main power connection for the coffee machine must be protected by a residual current circuit-
 breaker (RCCB).
 – Each terminal of the power supply must be able to be interrupted using a switch.
-– The water connection must comply with Requirements of the water supply [}"
-20169320_TUM_SB1200_en.pdf_0015,6750,7250," for the coffee machine must be protected by a residual current circuit-
-breaker (RCCB).
-– Each terminal of the power supply must be able to be interrupted using a switch.
 – The water connection must comply with Requirements of the water supply [} 33] and local and
 national rules and regulations.
 – The coffee machine must be connected to the water supply with the supplied hose kit. Do not use any
@@ -5638,15 +5041,6 @@ Minimum clearances
 Openings in counter top
 The following illustrations are examples. Please refer to the design data for the details that match your
 configuration.
-Franke Kaffeemaschinen AG
-Installation | 6
-User manual SB1200
-33
-Openings in counter top when using adjustable feet
-Opening in counter top when using the molded gasket
-6.2.1
-"
-20169320_TUM_SB1200_en.pdf_0016,7200,7700,".
 Franke Kaffeemaschinen AG
 Installation | 6
 User manual SB1200
@@ -5706,14 +5100,6 @@ Iron content
 < 0.3 mg/l
 – Color: Clear
 – Taste: Fresh and pure taste
-– Aroma:"
-20169320_TUM_SB1200_en.pdf_0017,7650,8150,"/l)
-Electrical conductivity (measured)
-50–200 µS/cm (microsiemens)
-Iron content
-< 0.3 mg/l
-– Color: Clear
-– Taste: Fresh and pure taste
 – Aroma: No perceptible aroma
 – No rust particles in the water
 – Reverse osmosis: The water must have a dissolved solids content of at least 30-50 ppm (30-50 mg/l)
@@ -5764,13 +5150,6 @@ Filling beans
 WARNING
 Risk of injury
 If objects find their way into the bean hopper or grinder, splinters may be ejected, leading to injury.
-a) Never insert any objects into the bean hopper or"
-20169320_TUM_SB1200_en.pdf_0018,8100,8600,".
-7.2
-Filling beans
-WARNING
-Risk of injury
-If objects find their way into the bean hopper or grinder, splinters may be ejected, leading to injury.
 a) Never insert any objects into the bean hopper or grinder.
 NOTICE
 Poor beverage quality
@@ -5815,9 +5194,6 @@ Spoiled milk and ready-to-drink beverages
 Insufficient cooling or hygiene can cause milk and ready-to-drink beverages to spoil.
 a) Only use precooled milk and precooled ready-to-drink beverages (2-5 °C).
 b) Only clean containers should be filled with milk and ready-to-drink beverages.
-c) Only store milk and ready-to-drink beverages in the cooling unit when the cooling unit is in operation.
-When the cooling unit is not in operation, e.g. overnight, store"
-20169320_TUM_SB1200_en.pdf_0019,8550,9050," should be filled with milk and ready-to-drink beverages.
 c) Only store milk and ready-to-drink beverages in the cooling unit when the cooling unit is in operation.
 When the cooling unit is not in operation, e.g. overnight, store milk and ready-to-drink beverages in a
 refrigerator.
@@ -5869,14 +5245,6 @@ tainer.
 9. Slide the container all the way into the cool-
 ing chamber.
 10. Close the cooling unit door.
-7 | Filling and emptying
-Franke Kaffeemaschinen AG
-40
-User manual SB1200
-7.5
-Filling the Flavor Station
-The on/off switch of the Flavor Station FS is located"
-20169320_TUM_SB1200_en.pdf_0020,9000,9500," cooling unit door.
 7 | Filling and emptying
 Franke Kaffeemaschinen AG
 40
@@ -5940,10 +5308,6 @@ a) Never insert any objects into the bean hopper or grinder.
 Grinder adjustment wrench (560.0003.876)
 Changing the grind coarseness affects the coffee quantity. The grinders must therefore be calibrated after
 adjusting the grind coarseness.
-If required, the grind coarseness can be set in stages"
-20169320_TUM_SB1200_en.pdf_0021,9450,9950," wrench (560.0003.876)
-Changing the grind coarseness affects the coffee quantity. The grinders must therefore be calibrated after
-adjusting the grind coarseness.
 If required, the grind coarseness can be set in stages for each grinder.
 7 | Filling and emptying
 Franke Kaffeemaschinen AG
@@ -6000,14 +5364,6 @@ User manual SB1200
 1. Pull the locking slide towards the front up to
 the stop.
 2. Lift and remove the powder hopper.
-"
-20169320_TUM_SB1200_en.pdf_0022,9900,10400,"7 | Filling and emptying
-Franke Kaffeemaschinen AG
-44
-User manual SB1200
-1. Pull the locking slide towards the front up to
-the stop.
-2. Lift and remove the powder hopper.
 3. Empty, clean, and dry the powder hopper.
 4. Attach the powder hopper.
 5. Push the locking slide all the way in.
@@ -6049,14 +5405,6 @@ hands, or wear single use gloves.
 f) Place the container lid with the suction hose on a clean surface only.
 7.11.1
 SU12/UT12 FM CM 2OM cooling unit
-1. Open the cooling unit door.
-7 | Filling and emptying
-Franke Kaffeemaschinen AG
-46
-User manual SB1200
-2. Remove the container.
-3"
-20169320_TUM_SB1200_en.pdf_0023,10350,10850,"UT12 FM CM 2OM cooling unit
 1. Open the cooling unit door.
 7 | Filling and emptying
 Franke Kaffeemaschinen AG
@@ -6113,15 +5461,6 @@ All beverages (including hot water) are dispensed from the All-in-one spout. The
 be disassembled during cleaning – it is cleaned using the spout cleaning device during the automatic
 cleaning process.
 8.1
-Preparing beverages with Quick Select
-1. Place an appropriate drinking vessel under
-the dispensing spout.
-11:35
-2023-02-02
-2. Select a product.
-ð The product preview will appear.
-3. Select product"
-20169320_TUM_SB1200_en.pdf_0024,10800,11300,"
 Preparing beverages with Quick Select
 1. Place an appropriate drinking vessel under
 the dispensing spout.
@@ -6198,13 +5537,6 @@ CLEANING
 9.1
 Introduction
 The perfect coffee experience depends on a perfectly cleaned coffee machine, cooling unit and Flavor
-Station (option). Increase your product quality! Clean your coffee machine and add-on units at least"
-20169320_TUM_SB1200_en.pdf_0025,11250,11750,"51
-9
-CLEANING
-9.1
-Introduction
-The perfect coffee experience depends on a perfectly cleaned coffee machine, cooling unit and Flavor
 Station (option). Increase your product quality! Clean your coffee machine and add-on units at least once a
 day and more frequently if necessary.
 The automatic cleaning process involves cleaning the coffee, cooling unit and Flavor Station (if applicable).
@@ -6250,11 +5582,6 @@ Additional areas to be cleaned by hand
 – Inner surfaces and shelf (if applicable) in the cooling chamber
 – Inner surfaces (shaft) of the CleanMaster
 – Interior, pullout and bottle holders (if applicable) of the Flavor Station
-9.4
-Starting the cleaning process
-When the cleaning cycle is complete, the machine either switches back to the maintenance level or the
-energy saving mode. Your service technician can set the desired option"
-20169320_TUM_SB1200_en.pdf_0026,11700,12200," holders (if applicable) of the Flavor Station
 9.4
 Starting the cleaning process
 When the cleaning cycle is complete, the machine either switches back to the maintenance level or the
@@ -6320,13 +5647,6 @@ per towel.
 9.4.2
 Start cleaning for cooling unit SU12 CM
 1. Open the door.
-2. Pull the milk"
-20169320_TUM_SB1200_en.pdf_0027,12150,12650,"9. After completing the automatic cleaning
-process, wipe the all-in-one spout with a pa-
-per towel.
-9.4.2
-Start cleaning for cooling unit SU12 CM
-1. Open the door.
 2. Pull the milk container forwards.
 3. Pull the reversible adapter upwards and from
 the suction fitting.
@@ -6380,13 +5700,6 @@ ened with water only.
 taste of the coffee.
 1. Open the door of the coffee machine.
 2. Pull the locking slide towards the front up to
-the stop.
-3. Remove the bean hopper by lifting it up-
-wards.
-4. Empty the bean hopper and powder hopper
-(if present).
-5. Remove the oil film"
-20169320_TUM_SB1200_en.pdf_0028,12600,13100,"2. Pull the locking slide towards the front up to
 the stop.
 3. Remove the bean hopper by lifting it up-
 wards.
@@ -6455,12 +5768,6 @@ b) Do not place anything on the drip grid.
 c) IN CASE OF SCALDING: Immediately cool the affected area and, depending on the severity of the in-
 jury, consult a doctor.
 Rinsing is not a substitute for daily cleaning! Rinsing is necessary to remove residue build-up in the coffee
-and milk systems.
-The machine automatically rinses after certain time intervals as well as when it is switched on or off.
-Espresso
-Double Espresso
-2 Espress"
-20169320_TUM_SB1200_en.pdf_0029,13050,13550," daily cleaning! Rinsing is necessary to remove residue build-up in the coffee
 and milk systems.
 The machine automatically rinses after certain time intervals as well as when it is switched on or off.
 Espresso
@@ -6550,13 +5857,6 @@ My settings
 6.7 On/Off machine
 Depending on the configuration of your machine, individual menu items may or may not be displayed.
 10 | Configuration
-Franke"
-20169320_TUM_SB1200_en.pdf_0030,13500,14000,".3 Specialist
-6.4 Operator
-6.6 Key (secured) products
-6.7 On/Off machine
-Depending on the configuration of your machine, individual menu items may or may not be displayed.
-10 | Configuration
 Franke Kaffeemaschinen AG
 58
 User manual SB1200
@@ -6622,17 +5922,6 @@ Products per page
 – 16
 – Number of products displayed simultaneously
 – Default: 4
-Depiction
-– Photo-realistic
-– Iconized
-Default: Fotorealistisch
-Automatic mode
-– Yes
-– No
-– Yes: All pre-selected products are dispensed
-without additional button input
-"
-20169320_TUM_SB1200_en.pdf_0031,13950,14450,"– Default: 4
 Depiction
 – Photo-realistic
 – Iconized
@@ -6731,16 +6020,6 @@ Franke Kaffeemaschinen AG
 Configuration | 10
 User manual SB1200
 61
-Menu item "
-20169320_TUM_SB1200_en.pdf_0032,14400,14900," for error
-messages
-– Yes
-– No
-Beeps in a 3-second cycle if a resource is missing
-Franke Kaffeemaschinen AG
-Configuration | 10
-User manual SB1200
-61
 Menu item 1.3 Selection buttons
 My settings
 1 Set machine
@@ -6815,13 +6094,6 @@ Menu item 1.7 Temperatures
 My settings
 1 Set machine
 1.7 Temperatures
-For these settings, consider the location, the ambient temperature, and the capacity"
-20169320_TUM_SB1200_en.pdf_0033,14850,15350,"– Yes: Audible signal active
-– Default: No
-Menu item 1.7 Temperatures
-My settings
-1 Set machine
-1.7 Temperatures
 For these settings, consider the location, the ambient temperature, and the capacity utilization of the ma-
 chine.
 Parameter
@@ -6891,20 +6163,6 @@ Accounting active
 – Default: No
 Menu item 1.17 Resources
 Is only supported in filter model (Individual Operating Mode).
-Bean types
-Parameter
-Value range
-Remarks
-Bean hopper pos. 1-3
-– None
-– Medium
-Espresso roast
-– Medium roast
-– Medium decaf-
-feinated roast
-– Own bean type
-"
-20169320_TUM_SB1200_en.pdf_0034,15300,15800," Mode).
 Bean types
 Parameter
 Value range
@@ -7001,11 +6259,6 @@ Button
 Only available for M1-M2. Opens a separate menu
 with setting options for air content and temperature.
 10.5.3 Menu 2 Customize beverages
-You can save each product in three user-specific variations. The original cannot be changed.
-Only parameters that are relevant for the product are displayed.
-The percentage specifications are always based on the preset value.
-For tips on"
-20169320_TUM_SB1200_en.pdf_0035,15750,16250,".3 Menu 2 Customize beverages
 You can save each product in three user-specific variations. The original cannot be changed.
 Only parameters that are relevant for the product are displayed.
 The percentage specifications are always based on the preset value.
@@ -7112,21 +6365,6 @@ Month
 1–12
 Set the month
 Year
-0–"
-20169320_TUM_SB1200_en.pdf_0036,16200,16700," and time
-Parameter
-Value range
-Remarks
-12/24-hour display
-– 12 hours
-– 24 hours
-Day
-1–31
-Set the day
-Month
-1–12
-Set the month
-Year
 0–63
 Set the year
 Hour
@@ -7217,16 +6455,6 @@ Protein
 0.0–30.0 g
 Increment 0.1
 Enter protein content in g
-"
-20169320_TUM_SB1200_en.pdf_0037,16650,17150," in g
-Fat
-0.0–50.0 %
-Increment 0.1
-Enter fat content in %
-Protein
-0.0–30.0 g
-Increment 0.1
-Enter protein content in g
 Calories
 0-2000 kcal
 Increment 1
@@ -7297,16 +6525,6 @@ PIN code (default values)
 2222
 6.4 Operator
 7777
-6.6 Key (secured) products
-8888
-6.7 On/Off machine
-9999
-10 | Configuration
-Franke Kaffeemaschinen AG
-70
-User manual SB1200
-Menu item "
-20169320_TUM_SB1200_en.pdf_0038,17100,17600,"7777
 6.6 Key (secured) products
 8888
 6.7 On/Off machine
@@ -7406,17 +6624,6 @@ PIN set
 Activate user profile
 – Yes
 – No
-– Yes: User profile is"
-20169320_TUM_SB1200_en.pdf_0039,17550,18050," the system
-– Update software via USB stick
-PIN set
-– Yes
-– No
-– Yes: PIN is active
-– No: PIN is not active
-Activate user profile
-– Yes
-– No
 – Yes: User profile is active
 – No: User profile is not active
 Open door to log on
@@ -7502,15 +6709,6 @@ Activate user profile
 – Yes: User profile is active
 – No: User profile is not active
 Franke Kaffeemaschinen AG
-"
-20169320_TUM_SB1200_en.pdf_0040,18000,18500," Yes: PIN is active
-– No: PIN is not active
-Activate user profile
-– Yes
-– No
-– Yes: User profile is active
-– No: User profile is not active
-Franke Kaffeemaschinen AG
 Individualization and data transfer | 11
 User manual SB1200
 73
@@ -7559,13 +6757,6 @@ User manual SB1200
 Manage Digital Signage via USB stick
 You can maintain the selection and display times of your advertising media (digital signage) in a freely ac-
 cessible web tool. To do this, export and import the corresponding file with a USB stick.
-http://iot.franke.com/digital-signage
-ü The coffee machine has software version 4.0
-or higher.
-1. Connect a USB stick to the machine.
-2. Go to menu item Individualization and data
-transfer"
-20169320_TUM_SB1200_en.pdf_0041,18450,18950,".
 http://iot.franke.com/digital-signage
 ü The coffee machine has software version 4.0
 or higher.
@@ -7627,12 +6818,6 @@ Switching language
 – Yes
 – No
 – Yes: A country flag appears at the top right dur-
-ing product selection. By tapping the flag, the
-languages specified in Languages 1-6 appear. If a
-language is selected, the translated beverage
-names and accounting information appear. After
-the duration specified"
-20169320_TUM_SB1200_en.pdf_0042,18900,19400," appears at the top right dur-
 ing product selection. By tapping the flag, the
 languages specified in Languages 1-6 appear. If a
 language is selected, the translated beverage
@@ -7706,22 +6891,6 @@ value information
 chapter Menu 4 Nutritional value information
 [} 68]
 Further nutritional value infor-
-mation
-Free text input
-11.5.5
-Accounting
-Parameter
-Value range
-Remarks
-Select
-– Coins
-– Cards
-– Customer card
-– Contactless
-– Cell phone
-– Banknotes
-Display"
-20169320_TUM_SB1200_en.pdf_0043,19350,19850,"for-
 mation
 Free text input
 11.5.5
@@ -7820,14 +6989,6 @@ Franke Kaffeemaschinen AG
 78
 User manual SB1200
 11.6.3 Back up XML data
-Desired action"
-20169320_TUM_SB1200_en.pdf_0044,19800,20300,", your own media)
-– Eject USB stick automatically
-11 | Individualization and data transfer
-Franke Kaffeemaschinen AG
-78
-User manual SB1200
-11.6.3 Back up XML data
 Desired action
 Menu item
 Information/instruction
@@ -7885,11 +7046,6 @@ TROUBLESHOOTING
 12.1
 Error messages
 When an error occurs, the machine displays an error message which provides instructions on how to rec-
-tify the issue.
-Self-service operating mode
-When the self-service mode is selected, an error is indicated via a colored triangle in the upper right-hand
-corner of the operator panel. Tap the symbol for further"
-20169320_TUM_SB1200_en.pdf_0045,20250,20750," provides instructions on how to rec-
 tify the issue.
 Self-service operating mode
 When the self-service mode is selected, an error is indicated via a colored triangle in the upper right-hand
@@ -7954,12 +7110,6 @@ Check the position of the spout insert
 and, if necessary, clean it. SU05 cooling
 unit: Check the O-ring on the suction
 hose coupling. Check the suction hose
-and, if"
-20169320_TUM_SB1200_en.pdf_0046,20700,21200,"/milk line has a leak
-Check the position of the spout insert
-and, if necessary, clean it. SU05 cooling
-unit: Check the O-ring on the suction
-hose coupling. Check the suction hose
 and, if necessary, replace it
 Milk is not flowing cor-
 rectly out of the milk
@@ -8011,12 +7161,6 @@ b) To do this, use a dry cloth or a cloth moistened only with water.
 c) Do not use any cleaners, as these alter the taste of the coffee.
 Franke Kaffeemaschinen AG
 Troubleshooting | 12
-User manual SB1200
-81
-The aromas of the coffee beans evaporate in the bean hopper as a result of heat and air exchange. The
-quality will have already deteriorated after 3 hours.
-"
-20169320_TUM_SB1200_en.pdf_0047,21150,21650,"bleshooting | 12
 User manual SB1200
 81
 The aromas of the coffee beans evaporate in the bean hopper as a result of heat and air exchange. The
@@ -8102,17 +7246,6 @@ DECOMMISSIONING
 13.1
 Preparing for decommissioning
 1. Clean the machine using the automatic
-"
-20169320_TUM_SB1200_en.pdf_0048,21600,22100,"
-13 | Decommissioning
-Franke Kaffeemaschinen AG
-82
-User manual SB1200
-13
-DECOMMISSIONING
-13.1
-Preparing for decommissioning
-1. Clean the machine using the automatic
 Cleaning [} 51] function.
 2. Empty the bean hopper and powder hopper.
 3. Clean the bean hopper and powder hopper.
@@ -8163,10 +7296,6 @@ If you plan to start using your machine again at a later date, it is essential t
 mented. The coffee machine must be maintained, installed, and cleaned before preparing any beverages.
 a) Contact the Franke Service team for information regarding proper decommissioning and storage.
 b) Have your coffee machine drained by your service technician.
-c) Remedial maintenance may be required when commissioning the machine if it has been stored"
-20169320_TUM_SB1200_en.pdf_0049,22050,22550," beverages.
-a) Contact the Franke Service team for information regarding proper decommissioning and storage.
-b) Have your coffee machine drained by your service technician.
 c) Remedial maintenance may be required when commissioning the machine if it has been stored in ex-
 cess of 6 months.
 Franke Kaffeemaschinen AG
@@ -8215,15 +7344,6 @@ The appliance complies with European Directive 2012/19/EU regarding Waste Electr
 Equipment (WEEE) and must not be disposed of with household waste.
 Dispose of electronic parts separately.
 Dispose of plastic parts in accordance with their marking.
-Two people are required for transporting the coffee machine.
-Franke Kaffeemaschinen AG
-Technical data | 15
-User manual SB1200
-85
-15
-TECHNICAL DATA
-Device type"
-20169320_TUM_SB1200_en.pdf_0050,22500,23000," parts in accordance with their marking.
 Two people are required for transporting the coffee machine.
 Franke Kaffeemaschinen AG
 Technical data | 15
@@ -8311,18 +7431,6 @@ Frequency
 30 A
 50-60 Hz
 380–415 V
-3LNPE
-6600-7800 W
-16 A
-50-60 Hz
-Franke Kaffeemaschinen AG
-86
-User manual SB1200
-INDEX
-Numeric
-5-step method
-"
-20169320_TUM_SB1200_en.pdf_0051,22950,23450," V
 3LNPE
 6600-7800 W
 16 A
@@ -8463,20 +7571,6 @@ Type code
  19, 20
 Type plate
  17
-U
-User manual
- 15
-W
-Wastewater tank (external)
- 85
-Water quality
- 34
-Wipe protection
- 55
-Franke Coffee Systems GmbH
-Franke Strasse 1
-97947 Gr"
-20169320_TUM_SB1200_en.pdf_0052,23400,23900,"
 U
 User manual
  15
