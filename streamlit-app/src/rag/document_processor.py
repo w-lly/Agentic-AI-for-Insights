@@ -7,6 +7,7 @@ from pathlib import Path
 import pandas as pd
 import pymupdf
 import tiktoken
+import streamlit as st
 
 def extract_text_from_pdf(pdf_path):
     """Extract text from a PDF file"""
@@ -18,8 +19,14 @@ def extract_text_from_pdf(pdf_path):
     
     return extracted_text
 
-def chunk_text_with_metadata(text, chunk_size=500, overlap=50):
-    """Chunk text with token-based splitting"""
+def chunk_text_with_metadata(text, chunk_size=None, overlap=None):
+    """Chunk text with token-based splitting using user settings"""
+    # Get settings from session state if available, otherwise use defaults
+    if chunk_size is None:
+        chunk_size = st.session_state.get('chunk_size', 500)
+    if overlap is None:
+        overlap = st.session_state.get('chunk_overlap', 50)
+    
     encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
     tokens = encoding.encode(text)
     chunks = []
@@ -43,9 +50,15 @@ def chunk_text_with_metadata(text, chunk_size=500, overlap=50):
     
     return pd.DataFrame(chunks)
 
-def chunk_multi_text_with_metadata(filenames, texts, chunk_size=500, overlap=50):
-    """Chunk multiple texts with file-specific metadata"""
+def chunk_multi_text_with_metadata(filenames, texts, chunk_size=None, overlap=None):
+    """Chunk multiple texts with file-specific metadata using user settings"""
     assert len(filenames) == len(texts), "Length of filenames must match length of texts"
+    
+    # Get settings from session state if available, otherwise use defaults
+    if chunk_size is None:
+        chunk_size = st.session_state.get('chunk_size', 500)
+    if overlap is None:
+        overlap = st.session_state.get('chunk_overlap', 50)
     
     chunk_df_lst = []
     for i in range(len(texts)):
@@ -58,7 +71,7 @@ def chunk_multi_text_with_metadata(filenames, texts, chunk_size=500, overlap=50)
     return pd.concat(chunk_df_lst, ignore_index=True)
 
 def process_pdfs():
-    """Process all PDFs in the input folder"""
+    """Process all PDFs in the input folder using user settings"""
     
     input_folder = Path("data/input/")
     output_folder = Path("data/output/")
@@ -85,8 +98,17 @@ def process_pdfs():
     extracted_text_file = output_folder / "extracted_text_from_pdfs.csv"
     df.to_csv(extracted_text_file, index=False)
     
-    # Chunk the text
-    chunk_df = chunk_multi_text_with_metadata(df["file_name"], df["text"])
+    # Get chunking settings from session state
+    chunk_size = st.session_state.get('chunk_size', 500)
+    chunk_overlap = st.session_state.get('chunk_overlap', 50)
+    
+    # Chunk the text with user-specified settings
+    chunk_df = chunk_multi_text_with_metadata(
+        df["file_name"], 
+        df["text"],
+        chunk_size=chunk_size,
+        overlap=chunk_overlap
+    )
     
     # Save chunked text
     chunked_text_file = output_folder / "chunked_pdf_text.csv"

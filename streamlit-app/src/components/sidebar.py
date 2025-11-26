@@ -8,7 +8,7 @@ from rag.pipeline_manager import initialize_rag_pipeline
 def render_sidebar():
     """Render the sidebar with controls and information"""
     
-    st.title("🎛️ Control Panel")
+    st.title("Control Panel")
     
     # API Key input
     st.subheader("🔑 API Configuration")
@@ -28,7 +28,7 @@ def render_sidebar():
     st.divider()
     
     # System initialization
-    st.subheader("🚀 System Initialization")
+    st.subheader("System Initialization")
     
     if st.button("Initialize RAG System", type="primary", disabled=not api_key):
         with st.spinner("Initializing RAG pipeline..."):
@@ -48,7 +48,7 @@ def render_sidebar():
     st.divider()
     
     # Quick stats
-    st.subheader("📊 Quick Stats")
+    st.subheader("Quick Stats")
     
     col1, col2 = st.columns(2)
     with col1:
@@ -59,13 +59,13 @@ def render_sidebar():
     st.divider()
     
     # Actions
-    st.subheader("🔧 Actions")
+    st.subheader("Actions")
     
-    if st.button("🗑️ Clear Chat History"):
+    if st.button("Clear Chat History"):
         st.session_state.messages = []
         st.rerun()
     
-    if st.button("🔄 Reload Documents"):
+    if st.button("Reload Documents"):
         with st.spinner("Reloading documents..."):
             try:
                 initialize_rag_pipeline()
@@ -76,7 +76,7 @@ def render_sidebar():
     st.divider()
     
     # Information
-    with st.expander("ℹ️ About"):
+    with st.expander("About"):
         st.markdown("""
         **Coffee Machine RAG Assistant**
         
@@ -84,17 +84,17 @@ def render_sidebar():
         to answer questions about coffee machine manuals.
         
         **Features:**
-        - 📄 Multi-document support
-        - 🔍 Hybrid retrieval (BM25 + Vector)
-        - 🎯 Cross-encoder reranking
-        - 🤖 LLM-powered responses
+        - Multi-document support
+        -  retrieval (BM25 + Vector)
+        - Cross-encoder reranking
+        - LLM-powered responses
         
         **Supported Models:**
         - Groq (llama-3.3-70b-versatile)
         - Sentence Transformers for embeddings
         """)
     
-    with st.expander("🛠️ Technical Details"):
+    with st.expander("Technical Details"):
         st.markdown(f"""
         **Current Configuration:**
         - Top-K: {st.session_state.top_k}
