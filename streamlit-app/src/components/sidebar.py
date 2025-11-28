@@ -78,14 +78,14 @@ def render_sidebar():
     # Information
     with st.expander("About"):
         st.markdown("""
-        **Coffee Machine RAG Assistant**
+        **7-11 Machine Assistant**
         
         This application uses Retrieval Augmented Generation (RAG) 
-        to answer questions about coffee machine manuals.
+        to answer questions about machine manuals.
         
         **Features:**
         - Multi-document support
-        -  retrieval (BM25 + Vector)
+        - Hybrid retrieval (BM25 + Vector)
         - Cross-encoder reranking
         - LLM-powered responses
         
@@ -95,11 +95,26 @@ def render_sidebar():
         """)
     
     with st.expander("Technical Details"):
-        st.markdown(f"""
-        **Current Configuration:**
-        - Top-K: {st.session_state.top_k}
-        - Chunk Size: {st.session_state.chunk_size} tokens
-        - Chunk Overlap: {st.session_state.chunk_overlap} tokens
-        - Temperature: {st.session_state.temperature}
-        - Embedding Model: {st.session_state.embedding_model}
-        """)
+        # Import here to avoid circular dependency
+        from components.settings_manager import load_processing_metadata
+        
+        # Get last processing settings (what was actually used)
+        last_processing = load_processing_metadata()
+        
+        # Get runtime settings (current active values for pipeline)
+        runtime_top_k = st.session_state.get('pipeline_top_k', st.session_state.get('top_k', 5))
+        runtime_temp = st.session_state.get('pipeline_temperature', st.session_state.get('temperature', 0.0))
+        
+        if last_processing:
+            st.markdown(f"""
+            **Last Processing Configuration:**
+            - Chunk Size: {last_processing.get('chunk_size', 'N/A')} tokens
+            - Chunk Overlap: {last_processing.get('chunk_overlap', 'N/A')} tokens
+            - Embedding Model: {last_processing.get('embedding_model', 'N/A')}
+            
+            **Current Runtime Settings:**
+            - Top-K: {runtime_top_k}
+            - Temperature: {runtime_temp}
+            """)
+        else:
+            st.info("No documents processed yet. Please initialize the system.")

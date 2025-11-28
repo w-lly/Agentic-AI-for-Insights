@@ -1,6 +1,3 @@
-# User settings inside data
-**/config/user_settings.json
-
 # Python cache / temp
 __pycache__/
 *.py[cod]

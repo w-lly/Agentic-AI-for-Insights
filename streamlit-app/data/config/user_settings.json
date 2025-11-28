@@ -1,0 +1,7 @@
+{
+  "top_k": 5,
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "temperature": 0.0,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2"
+}

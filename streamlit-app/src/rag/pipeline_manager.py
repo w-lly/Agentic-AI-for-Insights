@@ -159,7 +159,7 @@ def initialize_rag_pipeline():
         retriever_tool = create_retriever_tool(
             ensemble_retriever,
             name="ensemble_retriever_tool",
-            description="Search user manuals and technical documents for coffee machines."
+            description="Search user manuals and technical documents."
         )
         
         # Step 11: Build LangGraph workflow
@@ -167,12 +167,83 @@ def initialize_rag_pipeline():
         
         st.session_state.rag_app = workflow
         
+        # Track what settings the pipeline was initialized with
+        st.session_state.pipeline_top_k = st.session_state.top_k
+        st.session_state.pipeline_temperature = st.session_state.temperature
+        
         return True
         
     except Exception as e:
         print(e)
         raise Exception(f"Failed to initialize RAG pipeline: {str(e)}")
 
+def reinitialize_retrievers_and_llm():
+    """
+    Reinitialize retrievers and LLM with updated top_k and temperature settings.
+    This is called when only top_k or temperature changes (no full reprocessing needed).
+    """
+    
+    if not st.session_state.get('documents'):
+        raise Exception("No documents loaded. Please initialize the pipeline first.")
+    
+    try:
+        docs = st.session_state.documents
+        
+        # Update BM25 retriever with new top_k
+        bm25_retriever = BM25Retriever.from_documents(docs)
+        bm25_retriever.k = st.session_state.top_k
+        
+        # Update FAISS retriever with new top_k
+        vector_store = st.session_state.vector_store
+        faiss_retriever = vector_store.as_retriever(
+            search_type="mmr",
+            search_kwargs={"k": st.session_state.top_k}
+        )
+        
+        # Recreate ensemble retriever with updated retrievers
+        ensemble_retriever = EnsembleRetriever(
+            retrievers=[bm25_retriever, faiss_retriever],
+            weights=[0.5, 0.5]
+        )
+        
+        # Recreate reranker
+        cross_encoder = HuggingFaceCrossEncoder(model_name="BAAI/bge-reranker-base")
+        reranker_compressor = CrossEncoderReranker(model=cross_encoder, top_n=3)
+        
+        # Recreate contextual compression retriever
+        compression_retriever = ContextualCompressionRetriever(
+            base_compressor=reranker_compressor,
+            base_retriever=ensemble_retriever
+        )
+        
+        st.session_state.ensemble_retriever = ensemble_retriever
+        st.session_state.compression_retriever = compression_retriever
+        
+        # Reinitialize LLM with updated temperature
+        llm = ChatGroq(
+            model="llama-3.3-70b-versatile",
+            temperature=st.session_state.temperature,
+            groq_api_key=st.session_state.groq_api_key
+        )
+        
+        st.session_state.llm = llm
+        
+        # Recreate retriever tool
+        retriever_tool = create_retriever_tool(
+            ensemble_retriever,
+            name="ensemble_retriever_tool",
+            description="Search user manuals and technical documents."
+        )
+        
+        # Rebuild LangGraph workflow with updated components
+        workflow = build_langgraph_workflow(llm, retriever_tool, compression_retriever)
+        
+        st.session_state.rag_app = workflow
+        
+        print(f"Pipeline reinitialized with top_k={st.session_state.top_k}, temperature={st.session_state.temperature}")
+        
+    except Exception as e:
+        raise Exception(f"Failed to reinitialize pipeline components: {str(e)}")
 
 def build_langgraph_workflow(llm, retriever_tool, compression_retriever):
     """Build the LangGraph workflow with reranking and grading"""
@@ -203,9 +274,6 @@ def build_langgraph_workflow(llm, retriever_tool, compression_retriever):
     def rerank_documents(state: MessagesState):
         """Rerank retrieved documents using cross-encoder"""
         question = state["messages"][0].content
-        # Extract retrieved docs
-        retrieved_docs = state["messages"][-1].content
-        print(f"Retrieved docs: {retrieved_docs}")
         
         # Retrieve compressed documents using reranker
         compressed_docs = compression_retriever.invoke(question)

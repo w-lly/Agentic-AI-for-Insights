@@ -8,7 +8,7 @@ from rag.pipeline_manager import query_rag_system
 def render_chat_interface():
     """Render the main chat interface"""
     
-    st.header("Chat with your Coffee Machine Manual")
+    st.header("Chat with your Machine Manual")
     
     # Check if system is initialized
     if not st.session_state.system_initialized:
@@ -47,7 +47,7 @@ def render_chat_interface():
                             st.divider()
     
     # Chat input
-    if prompt := st.chat_input("Ask a question about your coffee machine...", 
+    if prompt := st.chat_input("Ask a question about your machine...", 
                                disabled=not st.session_state.system_initialized):
         
         # Add user message to chat
