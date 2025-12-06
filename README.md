@@ -28,13 +28,40 @@ Welcome to our AI Studio Project!
 
 ## :) **Setup and Installation**
 
-**Provide step-by-step instructions so someone else can run your code and reproduce your results. Depending on your setup, include:**
+* - **Clone the repository**
+  - `git clone https://github.com/<your-team-repo>/agentic-ai-for-insights.git`
+  - `cd agentic-ai-for-insights`
 
-* How to clone the repository
-* How to install dependencies
-* How to set up the environment
-* How to access the dataset(s)
-* How to run the notebook or scripts
+- **Create and activate a virtual environment**
+  - macOS / Linux:
+    - `python3 -m venv env`
+    - `source env/bin/activate`
+  - Windows:
+    - `python3 -m venv env`
+    - `env\Scripts\activate`
+
+- **Install dependencies**
+  - `pip install -r requirements.txt`
+  - **Key libraries used:**
+    - PyMuPDF  
+    - FAISS  
+    - SentenceTransformers  
+    - LangChain / LangGraph  
+    - Transformers (for reranker)
+
+- **Preprocess documents**
+  - Place PDFs in `data/raw/`
+  - Run:
+    - `python src/parse_and_chunk.py`
+
+- **Generate embeddings and build FAISS index**
+  - `python src/build_faiss.py`
+
+- **Run the retrieval workflow**
+  - `python src/query_pipeline.py`
+
+- **Launch the frontend demo**
+  - `streamlit run app.py` 
 
 
 --- 
