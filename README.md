@@ -29,8 +29,8 @@ Welcome to our AI Studio Project!
 ## :) **Setup and Installation**
 
 * - **Clone the repository**
-  - `git clone https://github.com/<your-team-repo>/agentic-ai-for-insights.git`
-  - `cd agentic-ai-for-insights`
+  - `git clone https://github.com/w-lly/Agentic-AI-for-Insights.git`
+  - `cd Agentic-AI-for-Insights`
 
 - **Create and activate a virtual environment**
   - macOS / Linux:
