@@ -10,10 +10,10 @@ Welcome to our AI Studio Project!
 | Noor Kanaan                             | n00rkanaan    | Member of technical team                                        |
 | Paromita Talukder                       | BlazedDonuts  | Member of technical team                                        |
 | Sanjanaa Viswanathan                    | Sanjanaa12    | Member of technical team                                        |
-| Shreya Singaravel                       | @shreyasing12 | Member of technical team                                        |
+| Shreya Singaravel                       | shreyasing12  | Member of technical team                                        |
 | Will Li                                 | w-lly         | Member of technical team                                        |
-| AI Studio Coach: Aram Ramos             | -             | Guidance, architecture feedback                                 |
-| Advisor: Sai Sandeep Kantareddy         | -             | Technical support, modeling recommendations                     |
+| AI Studio Coach: Aram Ramos             | aramseries    | Guidance, architecture feedback                                 |
+| Advisor: Sai Sandeep Kantareddy         | SaiSandeepKantareddy | Technical support, modeling recommendations              |
 
 
 ## 🎯 **Project Highlights**
