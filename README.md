@@ -5,15 +5,15 @@ Welcome to our AI Studio Project!
 
 | Name                                    | GitHub Handle | Contribution                                                    |
 | --------------------------------------- | ------------- | --------------------------------------------------------------- |
-| Derek Le                                |               | Member of technical team                                        |
-| Janice Kennedy                          |               | Member of technical team                                        |
-| Noor Kanaan                             |               | Member of technical team                                        |
-| Paromita Talukder                       |               | Member of technical team                                        |
-| Sanjanaa Viswanathan                    |               | Member of technical team                                        |
-| Shreya Singaravel                       |               | Member of technical team                                        |
-| Will Li                                 |               | Member of technical team                                        |
-| AI Studio Coach: Aram Ramos             |               | Guidance, architecture feedback                                 |
-| Challenge Advisor: Sai Sandeep Kantareddy |             | Technical support, modeling recommendations                     |
+| Derek Le                                | anhle1203     | Member of technical team                                        |
+| Janice Kennedy                          | 0921-janice   | Member of technical team                                        |
+| Noor Kanaan                             | n00rkanaan    | Member of technical team                                        |
+| Paromita Talukder                       | BlazedDonuts  | Member of technical team                                        |
+| Sanjanaa Viswanathan                    | Sanjanaa12    | Member of technical team                                        |
+| Shreya Singaravel                       | @shreyasing12 | Member of technical team                                        |
+| Will Li                                 | w-lly         | Member of technical team                                        |
+| AI Studio Coach: Aram Ramos             | -             | Guidance, architecture feedback                                 |
+| Advisor: Sai Sandeep Kantareddy         | -             | Technical support, modeling recommendations                     |
 
 
 ## 🎯 **Project Highlights**
