@@ -7,7 +7,7 @@ Welcome to our AI Studio Project with Break Through Tech and 7-11!
 | --------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
 | Derek Le                                | anhle1203             | Chunk Text + Cross-Document Trend Analysis + Human Evaluation (Recall@5, Precision@5)           |
 | Janice Kennedy                          | 0921-janice           | Embeddings + FAISS Database + LangGraph/LangChain Workflow                                       |
-| Noor Kanaan                             | n00rkanaan            | Chunk Text + Human Evaluation (Recall@5, Precision@5)                                            |
+| Noor Kanaan                             | n00rkanaan            | Chunk Text + Human Evaluation (Recall@5, Precision@5) + README                                   |
 | Paromita Talukder                       | BlazedDonuts          | Semantic Search + FAISS Database + LangGraph/LangChain Workflow                                  |
 | Sanjanaa Viswanathan                    | Sanjanaa12            | Parse PDFs + BGE Reranker + Cross-Document Trend Analysis                                        |
 | Shreya Singaravel                       | shreyasing12          | Parse PDFs + Multi-Document Querying + Human Evaluation (Recall@5, Precision@5)                  |
