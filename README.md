@@ -1,23 +1,23 @@
 # Agentic-AI-for-Insights
-
-Welcome to our AI Studio Project!
+Welcome to our AI Studio Project with Break Through Tech and 7-11!
 
 # **7-11A TEAM**
 
-| Name                                    | GitHub Handle | Contribution                                                    |
-| --------------------------------------- | ------------- | --------------------------------------------------------------- |
-| Derek Le                                | anhle1203     | Member of technical team                                        |
-| Janice Kennedy                          | 0921-janice   | Member of technical team                                        |
-| Noor Kanaan                             | n00rkanaan    | Member of technical team                                        |
-| Paromita Talukder                       | BlazedDonuts  | Member of technical team                                        |
-| Sanjanaa Viswanathan                    | Sanjanaa12    | Member of technical team                                        |
-| Shreya Singaravel                       | shreyasing12  | Member of technical team                                        |
-| Will Li                                 | w-lly         | Member of technical team                                        |
-| AI Studio Coach: Aram Ramos             | aramseries    | Guidance, architecture feedback                                 |
-| Advisor: Sai Sandeep Kantareddy         | SaiSandeepKantareddy | Technical support, modeling recommendations              |
+| Name                                    | GitHub Handle         | Contribution                                                                                     |
+| --------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------ |
+| Derek Le                                | anhle1203             | Chunk Text + Cross-Document Trend Analysis + Human Evaluation (Recall@5, Precision@5)           |
+| Janice Kennedy                          | 0921-janice           | Embeddings + FAISS Database + LangGraph/LangChain Workflow                                       |
+| Noor Kanaan                             | n00rkanaan            | Chunk Text + Human Evaluation (Recall@5, Precision@5)                                            |
+| Paromita Talukder                       | BlazedDonuts          | Semantic Search + FAISS Database + LangGraph/LangChain Workflow                                  |
+| Sanjanaa Viswanathan                    | Sanjanaa12            | Parse PDFs + BGE Reranker + Cross-Document Trend Analysis                                        |
+| Shreya Singaravel                       | shreyasing12          | Parse PDFs + Multi-Document Querying + Human Evaluation (Recall@5, Precision@5)                  |
+| Will Li                                 | w-lly                 | Embeddings + FAISS Database + BGE Reranker + Multi-Document Querying + Streamlit App + HuggingFace Deployment |
+| AI Studio Coach: Aram Ramos             | aramseries            | Guidance, architecture feedback                                                                  |
+| Advisor: Sai Sandeep Kantareddy         | SaiSandeepKantareddy  | Technical support, modeling recommendations                                                      |
 
 
-## 🎯 **Project Highlights**
+
+## **Project Highlights**
 
 * Built an agentic multi-step Retrieval-Augmented Generation (RAG) system capable of synthesizing insights from complex enterprise PDFs.
 * Designed a hybrid retrieval method combining BM25 keyword search and FAISS vector embeddings for improved accuracy.
@@ -42,7 +42,7 @@ Welcome to our AI Studio Project!
     - `env\Scripts\activate`
 
 - **Install dependencies**
-  - `pip install -r requirements.txt`
+  - `pip install -r .\requirements.txt`
   - **Key libraries used:**
     - PyMuPDF  
     - FAISS  
@@ -50,24 +50,14 @@ Welcome to our AI Studio Project!
     - LangChain / LangGraph  
     - Transformers (for reranker)
 
-- **Preprocess documents**
-  - Place PDFs in `data/raw/`
-  - Run:
-    - `python src/parse_and_chunk.py`
-
-- **Generate embeddings and build FAISS index**
-  - `python src/build_faiss.py`
-
-- **Run the retrieval workflow**
-  - `python src/query_pipeline.py`
-
 - **Launch the frontend demo**
+  - `cd .\streamlit-app\`
   - `streamlit run app.py` 
 
 
 --- 
 
-## 🏗️ **Project Overview**
+## **Project Overview**
 
 * The project addresses 7-Eleven’s need for instant accessibility to large volumes of internal documentation.
 * **The challenge:** manual analysis of large unstructured document collections is slow and inconsistent.
@@ -75,7 +65,7 @@ Welcome to our AI Studio Project!
 
 ---
 
-## 📊 **Data Exploration**
+## **Data Exploration**
 
 Dataset
   * Documents were parsed using PyMuPDF and chunked using GPT-3.5 Turbo.
@@ -84,7 +74,7 @@ Dataset
   * Embeddings generated using all-MiniLM-L6-v2 (384-dimensional vectors).
   * Embeddings stored in a FAISS index for fast similarity search.
 
-## 🧠 **Model Development**
+## **Model Development**
 
 Retrieval Methods
   * BM25 keyword retriever: matches query terms directly.
@@ -100,7 +90,7 @@ Evaluation
   
 ---
 
-## 📈 **Results & Key Findings**
+## **Results & Key Findings**
 
 Test 1
   * Question: How to fill the powder in the coffee machine?
@@ -116,27 +106,22 @@ Test 2
 
 ---
 
-## 🚀 **Next Steps**
+## **Next Steps**
 Improving retrieval quality for difficult instructional queries
 
 ---
 
-## 📝 **License**
+## **Live Demo**
+The Space is deployed at [https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App](https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App)
+
+---
+
+## **License**
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 **Acknowledgements**
+## **Acknowledgements**
   * 7-Eleven (host company)
-  * Aram Ramos — AI Studio Coach
-  * Sai Sandeep Kantareddy — Challenge Advisor
-
-To run streamlit app:
-
-ensure requirements are imported: `pip install -r .\requirements.txt`
-cd into `streamlit-app`
-run `streamlit run .\app.py`
-
-## Live Demo
-
-The Space is deployed at [https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App](https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App)
+  * Aram Ramos — AI Studio Coach, for his invaluable guidance and mentorship
+  * Sai Sandeep Kantareddy — Challenge Advisor, for his support, insights, and encouragement
