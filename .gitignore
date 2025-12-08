@@ -1,7 +1,22 @@
+# Jupyter
 .ipynb_checkpoints/
 
-# Ignore virtual environments
+# Python cache / temp
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Streamlit
+.streamlit/secrets.toml     # Never commit secrets
+.streamlit/state.json        # Session state (if created)
+streamlit.log                # Local logs
+.streamlit/
+
+# Virtual environments
 venv/
 .env/
 env/
+ENV/
 .venv/

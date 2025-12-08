@@ -1,4 +1,5 @@
 # Agentic-AI-for-Insights
+
 Welcome to our AI Studio Project!
 
 # **7-11A TEAM**
@@ -130,3 +131,12 @@ This project is licensed under the MIT License.
   * Aram Ramos — AI Studio Coach
   * Sai Sandeep Kantareddy — Challenge Advisor
 
+To run streamlit app:
+
+ensure requirements are imported: `pip install -r .\requirements.txt`
+cd into `streamlit-app`
+run `streamlit run .\app.py`
+
+## Live Demo
+
+The Space is deployed at [https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App](https://huggingface.co/spaces/w-lly/Agentic-AI-for-Insights-App)
